@@ -1,6 +1,6 @@
 # key-chain
 
-use the part studio 1.zip for 3d printing and NOT the key chain.step
+use the part studio 1.step for 3d printing and NOT the key chain.step
 
 a simple key chain, made for hack club summer camp.
 
